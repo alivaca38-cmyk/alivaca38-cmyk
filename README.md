@@ -30,4 +30,4 @@ Solución de autenticación y verificación de identidad mediante reconocimiento
 
 📫 **¿Cómo contactarme para el Servicio Social?**
 *   **GitHub:** [alivaca38-cmyk](https://github.com)
-*   *Puedes añadir aquí tu correo escolar o tu enlace de LinkedIn si tienes uno.*
+*   alivaca38@gmail.com
